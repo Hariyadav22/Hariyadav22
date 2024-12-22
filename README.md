@@ -46,15 +46,15 @@ Welcome to my GitHub profile! I'm a **Software Developer** passionate about buil
 A comprehensive solution for managing recruitment process details, employee records, leave policies, payroll systems, performance management, employee tracking, and employee exit.
 
 ### 🌍 Travel Packages Platform
-![Travel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBGzIeaUQL2es9DnU5kA_kxVRKQzm1E-Gzfg&s)  
+
 A web application for discovering and booking travel packages, built using Django and web technologies.
 
 ### 🏥 Medical SaaS Application
-![Medical SaaS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN5Cgx-vhheesO2Nu2ZhVp_hIbItcIAS9tcQ&s)  
+
 A cloud-based software solution for healthcare providers to manage appointments, prescriptions, and patient records.
 
 ### 📈 Algo Trading Application (Current Project)
-![Algo Trading](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvnZybkM1WgLfrPXSqOFicQBP6-_PuOblbgg&s)   
+
 An algorithmic trading platform that integrates Python with trading APIs to automate financial transactions.
 
 ---
